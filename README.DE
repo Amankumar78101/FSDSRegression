@@ -1,0 +1,18 @@
+## END to END ML Project
+
+###created a enviroment
+'''
+conda create -p Yt-env python==3.8
+'''
+### To  Activate enviroment
+
+'''
+conda activate C:\Users\atulk\PycharmProjects\pythonProject2\pythonProject\project_7\Yt-env
+'''
+
+
+### Install all requirements
+
+'''
+pip install -r requirements.txt
+'''
